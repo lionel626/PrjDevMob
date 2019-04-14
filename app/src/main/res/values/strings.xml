@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PrjDevMob</string>
+    <string name="title_activity_score">ScoreActivity</string>
+    <string name="play_txt">Play</string>
+    <string name="score_txt">Scores</string>
+    <string name="pseudo">Pseudo</string>
+    <string name="confirmer">Confirmer</string>
+    <string name="affscore">Votre Score est de</string>
+    <string name="titre">Jeux du Taquin</string>
+    <string name="title">Jeux Du Taquin</string>
+</resources>
